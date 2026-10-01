@@ -1,0 +1,5 @@
+data/zenodo_4805258/
+*.asv
+*.m~
+.DS_Store
+Thumbs.db

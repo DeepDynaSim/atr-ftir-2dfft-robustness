@@ -1,0 +1,35 @@
+{
+  "title": "Robustness and independent dataset evaluation of 2D-FFT feature engineering for ATR-FTIR COVID-19 severity classification",
+  "upload_type": "software",
+  "description": "MATLAB R2024b code and derived outputs for a patient-level robustness evaluation of 2D-FFT feature engineering in ATR-FTIR COVID-19 severity classification. The archive includes held-out predictions, paired-bootstrap contrasts, matched-PC and nonredundant-coefficient sensitivity analyses, conventional-classifier benchmarks, 50-repeat development validation, 25-seed MLP variability, DOI verification, and vector plus 600-dpi figures. Source spectra are referenced but not redistributed.",
+  "creators": [
+    {"name": "Uyulan, Caglar"},
+    {"name": "Demirci, Huri"},
+    {"name": "Can, Esra"},
+    {"name": "Guleken, Zozan"}
+  ],
+  "keywords": [
+    "ATR-FTIR",
+    "2D-FFT",
+    "COVID-19",
+    "PCA",
+    "machine learning",
+    "robustness analysis",
+    "reproducibility"
+  ],
+  "license": "cc-by-4.0",
+  "doi": "10.5281/zenodo.23080999",
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.4805258",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1021/acs.analchem.1c00596",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ]
+}

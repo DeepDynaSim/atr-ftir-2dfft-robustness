@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: If you use this analysis, cite the archived release and the associated manuscript.
+title: Robustness and independent dataset evaluation of 2D-FFT feature engineering for ATR-FTIR COVID-19 severity classification
+type: software
+version: 1.0.0
+date-released: 2026-10-01
+doi: 10.5281/zenodo.23080999
+url: https://doi.org/10.5281/zenodo.23080999
+repository-code: https://github.com/DeepDynaSim/atr-ftir-2dfft-robustness
+authors:
+  - family-names: Uyulan
+    given-names: Caglar
+  - family-names: Demirci
+    given-names: Huri
+  - family-names: Can
+    given-names: Esra
+  - family-names: Guleken
+    given-names: Zozan
+license: MIT
+keywords:
+  - ATR-FTIR
+  - 2D-FFT
+  - COVID-19
+  - robustness analysis
+  - machine learning
+  - reproducibility
+references:
+  - type: dataset
+    title: Rapid classification of COVID-19 severity by ATR-FTIR spectroscopy of plasma samples
+    doi: 10.5281/zenodo.4805258
+  - type: article
+    title: Rapid Classification of COVID-19 Severity by ATR-FTIR Spectroscopy of Plasma Samples
+    doi: 10.1021/acs.analchem.1c00596
