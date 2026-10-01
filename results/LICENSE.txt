@@ -1,0 +1,3 @@
+Derived tables and figures in this directory are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+The source spectra are not included. They remain subject to the license and attribution requirements of Zenodo record 10.5281/zenodo.4805258.

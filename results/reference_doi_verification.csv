@@ -1,0 +1,23 @@
+﻿Reference,DOI,Status,Registry,Registry title or note
+1,10.1016/j.canlet.2020.02.020,verified,Crossref,Biofluid diagnostics by FTIR spectroscopy: A platform technology for cancer detection
+2,10.1002/tbio.202000025,verified,Crossref,Fourier‐transform infrared spectroscopy of biofluids: A practical approach
+3,10.1002/jbio.201900177,verified,Crossref,Investigating pre‐analytical requirements for serum and plasma based infrared spectro‐diagnostic
+4,10.1021/acs.analchem.6c01358,verified,Crossref,Preanalytical Workflow Establishment for Reproducible Clinical Blood-Based Infrared Molecular Fingerprinting
+5,10.3390/mi14061145,verified,Crossref,A Review of Machine Learning Methods Recently Applied to FTIR Spectroscopy Data for the Analysis of Human Blood Cells
+6,10.1016/j.talanta.2021.122916,verified,Crossref,"Characterization of Covid-19 infected pregnant women sera using laboratory indexes, vibrational spectroscopy, and machine learning classifications"
+7,10.1038/s41598-021-93511-2,verified,Crossref,Rapid diagnosis of COVID-19 using FT-IR ATR spectroscopy and machine learning
+8,10.1002/jbio.202200166,verified,Crossref,<scp>ATR‐FTIR</scp> spectrum analysis of plasma samples for rapid identification of recovered <scp>COVID</scp>‐19 individuals
+9,10.1016/j.xcrm.2024.101625,verified,Crossref,Plasma infrared fingerprinting with machine learning enables single-measurement multi-phenotype health screening
+10,10.1371/journal.pone.0224365,verified,Crossref,Machine learning algorithm validation with a limited sample size
+11,10.1136/bmj-2023-078378,verified,Crossref,TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods
+12,10.1136/bmj.h5527,verified,Crossref,STARD 2015: an updated list of essential items for reporting diagnostic accuracy studies
+13,10.1016/j.vibspec.2024.103726,verified,Crossref,Gaining insight into protein structure via ATR-FTIR spectroscopy
+14,10.1038/s41598-024-54534-7,verified,Crossref,Complex changes in serum protein levels in COVID-19 convalescents
+15,10.3390/biomedicines12040840,verified,Crossref,Plasma Proteomics Elucidated a Protein Signature in COVID-19 Patients with Comorbidities and Early-Diagnosis Biomarkers
+16,10.1016/j.saa.2020.118636,verified,Crossref,ATR-FTIR spectroscopy and spectroscopic imaging for the analysis of biopharmaceuticals
+17,10.3389/fchem.2018.00576,verified,Crossref,Chemometric Methods for Spectroscopy-Based Pharmaceutical Analysis
+18,10.1016/j.saa.2024.125283,verified,Crossref,Machine learning assisted rapid approach for quantitative prediction of biochemical parameters of blood serum with FTIR spectroscopy
+19,10.1136/bmj-2024-082505,verified,Crossref,"PROBAST+AI: an updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods"
+20,10.1021/acs.analchem.1c00596,verified,Crossref,Rapid Classification of COVID-19 Severity by ATR-FTIR Spectroscopy of Plasma Samples
+21,10.5281/zenodo.4805258,verified,DataCite,Rapid classification of COVID-19 severity by ATR-FTIR Spectros-copy of plasma samples
+22,10.1021/acsomega.2c06786,verified,Crossref,Robustness of FTIR-Based Ultrarapid COVID-19 Diagnosis Using PLS-DA
